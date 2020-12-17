@@ -1,0 +1,9 @@
+site_name: Curle, N Static Site
+
+nav: 
+  - Home: index.md
+  - Digital Narrative: digitalnarrative
+  - DITA: dita
+  - Markdown: markdown
+
+theme: mkdocs
