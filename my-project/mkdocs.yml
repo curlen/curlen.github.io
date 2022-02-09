@@ -1,0 +1,9 @@
+site_name: Airphoning Help Resources
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
